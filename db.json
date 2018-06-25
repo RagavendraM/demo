@@ -1,14 +1,36 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
   "profile": {
-    "name": "typicode"
+    "CUSTOMER_ID":"272616",
+    "FIRST_NAME":"Shathish",
+    "MIDDLE_NAME":"",
+    "LAST_NAME":"R",
+    "DP_CLIENT_ID":"13489428",
+    "CUSTOMER_TYPE":"W1",
+    "LOGIN_ID":"SHATHISH",
+    "S2K_CUST_ID":"W339975",
+    "ADDRESS_ONE":"47\/A SANGANAPERI BLOCK 4",
+    "ADDRESS_TWO":"SUNDARESAPURAM TENKASI",
+    "CITY":"TIRUNELVEL",
+    "PIN_CODE":"627751",
+    "PRODUCT_ID":"F3",
+    "MBL":"919870065422",
+    "EML":"shathish.tvl@gmail.com",
+    "DATE_OF_BIRTH":"12-OCT-1977",
+    "PAN_NO":"AJFPB3159B",
+    "BRANCH_ID":"554",
+    "BRANCH_NAME":"THANE BRANCH",
+    "BRANCH_CODE":"498",
+    "BRANCH_TYPE_ID":"3",
+    "MOBILE":"9819398200",
+    "CONTACT_PERSON":"Mr.Anil Kothari",
+    "EMAIL":"anil_k@branch.sharekhan.com",
+    "PHONE_ONE":"022-41280600","PHONE_TWO":"",
+    "COUNTRY_NAME":"INDIA",
+    "STATE_NAME":"MAHARASHTRA",
+    "CITY_NAME":"THANE",
+    "PINCODE":"400602",
+    "GROUP_HEAD":"",
+    "CLUSTER_HEAD":"",
+    "GROUP_MANAGER":""
   }
 }
